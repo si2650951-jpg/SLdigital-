@@ -1,0 +1,11 @@
+{
+  "name": "EduShorts - Social Learning Platform",
+  "description": "Short-video based social learning platform combining Instagram Reels and YouTube Shorts with interactive quizzes, creator tools, live streaming, direct messaging, and community learning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
